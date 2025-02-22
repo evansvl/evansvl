@@ -1,5 +1,20 @@
 # 💫 About Me:
-a Russian developer<br>born 13 march 2008<br>that all, I think
+<p>
+						Hi! I'm a 16-year-old developer who loves building anything that
+						comes to mind. From mobile apps to websites and random experimental
+						projects. I enjoy coding just for the fun of it.
+						<br>
+						I'm currently studying IT, constantly learning new things, and
+						improving my skills.
+						<br>
+						I love solving problems, exploring new technologies, and turning
+						ideas into working products.
+						<br>
+						Whether it's a small script or a full-fledged app, I dive into
+						development with passion and curiosity.
+						<br>
+						Always open to new challenges and exciting projects!
+</p>
 
 
 ## 🌐 Socials:
