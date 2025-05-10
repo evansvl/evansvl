@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p>
-Hi! I'm a 16-year-old developer who loves coding anything that comes to mind. From mobile apps to websites and random experimental projects. I enjoy coding just for the fun of it.
+Hi! I'm a 17-year-old developer who loves coding anything that comes to mind. From mobile apps to websites and random experimental projects. I enjoy coding just for the fun of it.
 <br>
 I'm currently studying IT, constantly learning new things, and improving my skills.
 <br>
