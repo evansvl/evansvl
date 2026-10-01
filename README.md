@@ -39,11 +39,11 @@ I'm open to freelance work. If you need a bot, an API integration, or something 
 
 Staging only. All reviews below are explicitly synthetic test data.
 
-[![GitVouch developer reviews](https://api-staging.gitvouch.dev/widget/87623b79-ecc3-4afa-b31c-9e9e27cf685f.svg)](https://api-staging.gitvouch.dev/widget/87623b79-ecc3-4afa-b31c-9e9e27cf685f)
+[![GitVouch developer reviews](https://api-staging.gitvouch.dev/widget/13c21617-36fd-46c6-a0fa-29889bfafa64.svg)](https://api-staging.gitvouch.dev/widget/13c21617-36fd-46c6-a0fa-29889bfafa64)
 
-[![GitVouch developer reviews](https://api-staging.gitvouch.dev/widget/87623b79-ecc3-4afa-b31c-9e9e27cf685f/static.svg)](https://api-staging.gitvouch.dev/widget/87623b79-ecc3-4afa-b31c-9e9e27cf685f)
+[![GitVouch developer reviews](https://api-staging.gitvouch.dev/widget/13c21617-36fd-46c6-a0fa-29889bfafa64/static.svg)](https://api-staging.gitvouch.dev/widget/13c21617-36fd-46c6-a0fa-29889bfafa64)
 
-[![GitVouch developer reviews](https://api-staging.gitvouch.dev/widget/1322eb60-185a-4383-ac6a-f94e04f9aa0c.svg)](https://api-staging.gitvouch.dev/widget/1322eb60-185a-4383-ac6a-f94e04f9aa0c)
+[![GitVouch developer reviews](https://api-staging.gitvouch.dev/widget/fb4359c4-26e2-4b2e-bcc3-1dc6daa3c599.svg)](https://api-staging.gitvouch.dev/widget/fb4359c4-26e2-4b2e-bcc3-1dc6daa3c599)
 
 [![GitVouch developer reviews](https://api-staging.gitvouch.dev/widget/853bf50f-147c-42da-8e9a-9c43fff84d1f.svg)](https://api-staging.gitvouch.dev/widget/853bf50f-147c-42da-8e9a-9c43fff84d1f)
 <!-- gitvouch-widget-test:end -->
