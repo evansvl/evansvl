@@ -32,3 +32,16 @@ Lately I've also been experimenting with local LLMs and ways to automate more of
 I'm open to freelance work. If you need a bot, an API integration, or something automated, feel free to message me.
 
 [Telegram](https://t.me/hahahahgaha) / [Email](mailto:contact@nnstore.org) / [Portfolio](https://t.me/evansvl_bio) / [Reviews](https://t.me/evansvl_reviews)
+
+
+<!-- gitvouch-widget-test:start -->
+### GitVouch widget compatibility test
+
+Staging only. The reviews below are explicitly synthetic test data.
+
+[![GitVouch developer reviews](https://api-staging.gitvouch.dev/widget/c78f33d1-9e93-4ac5-8491-7ae8db8491b1.svg)](https://api-staging.gitvouch.dev/widget/c78f33d1-9e93-4ac5-8491-7ae8db8491b1)
+
+[![GitVouch developer reviews](https://api-staging.gitvouch.dev/widget/c78f33d1-9e93-4ac5-8491-7ae8db8491b1/static.svg)](https://api-staging.gitvouch.dev/widget/c78f33d1-9e93-4ac5-8491-7ae8db8491b1)
+
+[![GitVouch developer reviews](https://api-staging.gitvouch.dev/widget/f2c65e58-80b4-4102-89ec-b1ec9f5ea237.svg)](https://api-staging.gitvouch.dev/widget/f2c65e58-80b4-4102-89ec-b1ec9f5ea237)
+<!-- gitvouch-widget-test:end -->
